@@ -1,0 +1,9 @@
+body {
+  background-color: blue;
+}
+body .main {
+  border: solid 1px black;
+  background-color: green;
+}
+
+/*# sourceMappingURL=style.css.map */
