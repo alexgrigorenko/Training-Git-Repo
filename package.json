@@ -1,5 +1,5 @@
 {
-  "name": "Git",
+  "name": "git",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -9,7 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "sass": "^1.17.0"
+  },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.14.0"
